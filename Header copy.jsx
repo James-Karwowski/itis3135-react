@@ -1,6 +1,0 @@
-export default function Header(){
-    return <header>
-        <h1>ITIS3135 | James Karwowski-Mulready's | Jumbo King-Mackerel</h1>
-        <nav><a href="../">Home</a> | <a href="./introduction.html">Introduction</a> | <a href="./contract.html">Contract</a> | <a href="./index.html">ITIS3135</a> | <a href="./fccfsjs_outline.html">FCC Fullstack JavaScript Outline</a></nav>
-    </header>;
-}
