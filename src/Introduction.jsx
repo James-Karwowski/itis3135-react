@@ -1,4 +1,4 @@
-import treePic from './images/james-at-uncc-next-to-tree.jpg';
+import treePic from './james-at-uncc-next-to-tree.jpg';
 
 export default function Introduction() {
     document.title = "Introduction";
