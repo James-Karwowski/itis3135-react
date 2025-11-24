@@ -10,11 +10,11 @@ function App() {
   document.title = "ITIS3135 | James Karwowski-Mulready's | Jumbo King-Mackerel";
   return (
     <>
-      <main>
+      <div>
         <h2>ITIS3135</h2>
         <p>This is all the content for my ITIS 3135 class.</p>
-    </main>
-    <hr></hr>
+      </div>
+      <hr></hr>
     </>
   )
 }
