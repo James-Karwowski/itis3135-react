@@ -21,5 +21,6 @@ export default function Introduction(){
                 </ul>
             </li>
         </ul>
+        <hr></hr>
     </>)
 }

@@ -7,5 +7,6 @@ export default function Contract(){
         <p>I understand that all work that I do on my school and personal websites will be publicly available to the world. I will not put information there that is inappropriate for schoolwork, or that I wish to keep private.</p>
         <p>Signed:</p>
         <p>James D. Karwowski, 24 August 2025</p>
+        <hr></hr>
     </>)
 }
