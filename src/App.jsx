@@ -7,10 +7,9 @@ import Footer from './Footer'
 
 function App() {
   const [count, setCount] = useState(0)
-
+  document.title = "ITIS3135 | James Karwowski-Mulready's | Jumbo King-Mackerel";
   return (
     <>
-      <Header/>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
@@ -31,7 +30,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <Footer/>
     </>
   )
 }
