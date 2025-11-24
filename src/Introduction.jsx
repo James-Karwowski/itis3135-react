@@ -1,9 +1,12 @@
 import Header from './Header'
+import treePic from './images/james-at-uncc-next-to-tree.jpg';
+
 export default function Introduction(){
     document.title = "ITIS3135 | James Karwowski-Mulready's | Jumbo King-Mackerel | Introduction";
     return (<>
             <h2>Introduction</h2>
         <figure>
+            <img src={treePic} alt="James at UNCC next to a tree" />
             <figcaption>James at UNCC next to a tree.</figcaption>
         </figure>
         <ul>
