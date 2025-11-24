@@ -16,31 +16,31 @@ export default function Introduction() {
             <ul>
                 <li>
                     <p className="list">
-                        My name is James D. Karwowski-Mulready…
+                        My name is James D. Karwowski-Mulready, and I am a CS major planning to graduate in Spring 2027. I have a big interest in computer programming and cybersecurity, but I also have an interest in retro technology. My overall career goal is to graduate UNC Charlotte with a Bachelor degree in computer science with a concentration in cybersecurity.
                     </p>
                 </li>
 
                 <li>
                     <p className="list">
-                        <em>Personal Background:</em> I was born in Connecticut…
+                        <em>Personal Background:</em> was born in Connecticut in the year 2007, and in the year 2010, my family moved to Huntersville, NC. In elementary school, I discovered my interest in computer programming (I believe this was in 3rd grade, but it might have been in 2nd grade). In middle school this interest grew, and in my high school years (Fall 2021 to Spring 2025), I took several classes that eventually allowed me to take classes at Central Piedmont Community College while I was in high school. I started taking these classes at the age of 16, and eventually graduated from CPCC in May of 2025, while graduating from high school about a month later.
                     </p>
                 </li>
 
                 <li>
                     <p className="list">
-                        <em>Professional Background:</em> I have worked one job…
+                        <em>Professional Background:</em> I have worked one job since I turned 16, which was as a pool attendant for Aquatech Pool Management. In addition to this, I was a Math/Computer Science tutor at my high school.
                     </p>
                 </li>
 
                 <li>
                     <p className="list">
-                        <em>Academic Background:</em> I am a Computer Science…
+                        <em>Academic Background:</em> I am a Computer Science (Cybersecurity) major and a first-year student with junior status. I plan to graduate in Spring 2027.
                     </p>
                 </li>
 
                 <li>
                     <p className="list">
-                        <em>Primary Computer:</em> Dell Inspiron 15…
+                        <em>Primary Computer:</em> Dell Inspiron 15, Windows 11, Laptop, Primarily Work at Home
                     </p>
                 </li>
 
@@ -50,13 +50,13 @@ export default function Introduction() {
                     <ul>
                         <li>
                             <p className="list">
-                                <em>ITSC3688 - Computers and Their Impact on Society:</em> Required.
+                                <em>ITSC3688 - Computers and Their Impact on Society:</em> Sounded Interesting, Required for my Degree.
                             </p>
                         </li>
 
                         <li>
                             <p className="list">
-                                <em>ITSC2600 - Computing Professionals II:</em> Required.
+                                <em>ITSC2600 - Computing Professionals II:</em> Sounded Interesting, Required for my Degree.
                             </p>
                         </li>
 
