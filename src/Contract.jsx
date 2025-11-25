@@ -1,4 +1,3 @@
-import Header from './Header'
 export default function Contract(){
     document.title = "ITIS3135 | James Karwowski-Mulready's | Jumbo King-Mackerel | Contract";
     return (<>
