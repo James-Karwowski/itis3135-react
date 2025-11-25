@@ -1,7 +1,7 @@
 import treePic from './james-at-uncc-next-to-tree.jpg';
 
 export default function Introduction() {
-    document.title = "Introduction";
+    document.title = "ITIS3135 | James Karwowski-Mulready's | Jumbo King-Mackerel | Introduction";
     return (
         <>
             <h2>Introduction</h2>

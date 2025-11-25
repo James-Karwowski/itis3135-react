@@ -15,6 +15,7 @@ createRoot(document.getElementById('root')).render(
           <Route index element={<App />} />
           <Route path="introduction" element={<Introduction />} />
           <Route path="contract" element={<Contract />} />
+          <Route path="all-introductions" element={<AllIntroductions />} />
         </Route>
       </Routes>
     </BrowserRouter>
