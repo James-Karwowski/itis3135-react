@@ -6,6 +6,7 @@ import App from './App.jsx'
 import Introduction from './Introduction.jsx'
 import Contract from './Contract.jsx'
 import Layout from './Layout.jsx'
+import AllIntroductions from './AllIntroductions.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
