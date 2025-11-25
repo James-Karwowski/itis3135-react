@@ -9,6 +9,10 @@ export default function AllIntroductions() {
             <h2>All Introductions</h2>
 
             {introData.map((student) => (
+                imageUrl = student.media?.hasImage
+                    ? `https://dvonb.xyz${student.media.src}`
+                    : null,
+                
                 <section key={student.prefix} className="intro-section">
                     <h3>
                         {student.name.first}{" "}
@@ -19,7 +23,7 @@ export default function AllIntroductions() {
                     {student.media?.hasImage && (
                         <figure>
                             <img
-                                src={student.media.src}
+                                src={imageUrl}
                                 alt={student.media.caption}
                                 className="intro-image"
                             />
