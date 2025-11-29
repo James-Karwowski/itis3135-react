@@ -377,6 +377,309 @@
     }
   },
   {
+    "prefix": "avang15",
+    "name": {
+      "first": "Aiden",
+      "middleInitial": "T",
+      "last": "Vang",
+      "preferred": ""
+    },
+    "acknowledgement": "I acknowledge the information - A.V. 10/23/25I",
+    "acknowledgementDate": "2025-11-26",
+    "mascot": "Auraed Vulture",
+    "divider": "||",
+    "platform": {
+      "device": "Laptop",
+      "os": "macOS"
+    },
+    "backgrounds": {
+      "personal": "I am a native Charlottean who grew up just down the road from campus. I am the oldest of two younger siblings and I am the first in my family to enroll in college directly after high school.",
+      "professional": "My first job was being a multifaceted team member at Jersey Mikes. Since then, I have been able to intern at Mecklenburg County’s Information Technology department as a quality service intern.",
+      "academic": "I am a Computer Science major with a concentration in cybersecurity. I am technically a first year, but I recently graduated from UNC Charlotte’s Early College and am a Junior by credits.",
+      "subject": "Computer Science"
+    },
+    "courses": [
+      {
+        "dept": "ITSC",
+        "num": "3688",
+        "name": "Computers and Their Impact On Society",
+        "reason": "I am interested to learn more about the current conversation around computer ethics, specifically with the advancements of AI.",
+        "code": "ITSC-3688"
+      },
+      {
+        "dept": "INFO",
+        "num": "2130",
+        "name": "Business Computing",
+        "reason": "I am looking to develop proficiency in Microsoft in order to diversify my technical portfolio and skills.",
+        "code": "INFO-2130"
+      }
+    ],
+    "personalStatement": "Hi, I am Aiden! I am studying Computer Science with a concentration in Cybersecurity. I was born and raised in Charlotte and attended the early college here at UNC Charlotte. In my free time, I enjoy listening to music, playing piano, and trying new food.",
+    "quote": {
+      "text": "“I have not failed. I’ve just found 10,000 ways that won’t work.”",
+      "author": "Thomas Edison"
+    },
+    "funFact": "I cannot swim!",
+    "additional": "N/A",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/avang15/",
+      "github": "https://github.com/avang15",
+      "githubio": "https://avang15.github.io/itis3135/",
+      "itis3135": "https://avang15.github.io/itis3135/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/avang15",
+      "codecademy": "https://www.codecademy.com/login",
+      "linkedin": "https://www.linkedin.com/in/aiden-vang-3a5517227/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/avang15-1764122341706.png",
+      "caption": "Endearing Prom Photo, 2023"
+    }
+  },
+  {
+    "prefix": "bmelling",
+    "name": {
+      "first": "Brian",
+      "middleInitial": "J",
+      "last": "Mellinger",
+      "preferred": ""
+    },
+    "acknowledgement": "I acknowledge that the information in this form is publicly available",
+    "acknowledgementDate": "2025-11-27",
+    "mascot": "Benevolent Moose",
+    "divider": "~",
+    "platform": {
+      "device": "Asus Laptop",
+      "os": "Windows 11"
+    },
+    "backgrounds": {
+      "personal": "I am a native North Carolina resident that now lives in Charlotte! I have also lived briefy in Arizona. I am in Charlotte so that I can study to become a Computer Scientist at the University of North Carolina at Charlotte.",
+      "professional": "Before going to college, I enlisted in the North Carolina Army National Guard as an Intelligence Analyst. I frequently enjoy learning about security and I also enjoy helping others.",
+      "academic": "I am now a junior in Computer Science and I am in the cybersecurity concentration.",
+      "subject": "I have very little background in web development but I am excited to learn."
+    },
+    "courses": [
+      {
+        "dept": "MSCI",
+        "num": "3101/3101L",
+        "name": "Adaptive Team Leadership/Lab",
+        "reason": "This is Army ROTC, I am taking this course in hopes to become an Army Reserve Cybersecurity Officer. I also love the physical and mental challenge and want to progress my current professional career.",
+        "code": "MSCI-3101/3101L"
+      },
+      {
+        "dept": "ITIS",
+        "num": "2600",
+        "name": "Computer Science, Program, Identity, Career",
+        "reason": "Required to take this as it is my first semester at UNCC",
+        "code": "ITIS-2600"
+      },
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front-End Web Application Development",
+        "reason": "Required to take this, however, I am excited to take my first course that is front end oriented.",
+        "code": "ITIS-3135"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3146",
+        "name": "Introduction to Operating Systems & Networks",
+        "reason": "Required to take this course.",
+        "code": "ITSC-3146"
+      },
+      {
+        "dept": "ITSC",
+        "num": "2175",
+        "name": "Logic and Algorithms",
+        "reason": "Required to take this course.",
+        "code": "ITSC-2175"
+      }
+    ],
+    "personalStatement": "I go to UNCC and I am pursuing my BS in Computer Science: Cybersecurity Concentration. I hope to get my masters in cybersecurity as well. ",
+    "quote": {
+      "text": "Injustice anywhere is a threat to justice everywhere",
+      "author": "MLK"
+    },
+    "funFact": "I originally did not like cats, however, I used to watch a kitten run away from freshman girls at North Carolina State University near their dorms almost everyday. One day it walked up to me and let me hold her. I failed to relocate her to a new home and she's been with me for two years now.",
+    "additional": "",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/bmelling/",
+      "github": "https://github.com/bmelling-stack",
+      "githubio": "https://bmelling-stack.github.io/",
+      "itis3135": "https://bmelling-stack.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/bmelling",
+      "codecademy": "https://www.codecademy.com/profiles/bmellingUNCC",
+      "linkedin": "https://www.linkedin.com/in/brian-mellinger/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/bmelling-1764267712152.png",
+      "caption": "Photo of Brian with Buffy"
+    }
+  },
+  {
+    "prefix": "bsaund12",
+    "name": {
+      "first": "Brian",
+      "middleInitial": "L",
+      "last": "Saunders",
+      "preferred": "N/A"
+    },
+    "acknowledgement": "I acknowledge that the information will be used for public use.",
+    "acknowledgementDate": "2025-11-27",
+    "mascot": "Bashful Shark",
+    "divider": "~",
+    "platform": {
+      "device": "Laptop",
+      "os": "Windows x86"
+    },
+    "backgrounds": {
+      "personal": " Hobbies that I have include going to the gym, video games, and running\r\n",
+      "professional": "I began coding in 12th grade, which I started with python. Since starting college, I have learned multiple languages and have gone to multiple career fairs and started personal projects.\r\n",
+      "academic": "I am currently a Junior Majoring in Computer Science with a concentration in Cybersecurity. I am on track to graduate in May 2027.\r\n",
+      "subject": ""
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3155",
+        "name": "Software engineering",
+        "reason": "Required",
+        "code": "ITIS-3155"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3146",
+        "name": "Intro Oper Syst & Networking",
+        "reason": "Required",
+        "code": "ITSC-3146"
+      },
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front-end Web Development",
+        "reason": "Required",
+        "code": "ITIS-3135"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3688",
+        "name": "Comp and their Impact on Society",
+        "reason": "Required",
+        "code": "ITSC-3688"
+      },
+      {
+        "dept": "STAT",
+        "num": "2122",
+        "name": "Intro to Prob and Stat",
+        "reason": "Required",
+        "code": "STAT-2122"
+      }
+    ],
+    "personalStatement": "Hi, My name Is Brian. I am 20 years old and I am from Roxboro, Nc. I am majoring in Computer Science with a concentration in Cybersecurity. Once I graduate, I plan on working as a Cybersecurity Analyst. My dog's name is Charlie.\r\n",
+    "quote": {
+      "text": "“The only way to do a great job is to love what you do”",
+      "author": "Steve Jobs"
+    },
+    "funFact": "I like to workoout",
+    "additional": "I love music",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/bsaund12/itis3135/",
+      "github": "https://github.com/bsaund12",
+      "githubio": "https://github.com/bsaund12/itis3135",
+      "itis3135": "https://github.com/bsaund12/itis3135/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/briansaundersj",
+      "codecademy": "http://codecademy.com/profiles/BrianSaundersJr",
+      "linkedin": "https://www.linkedin.com/in/bj-saunders/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/bsaund12-1764204273015.jpg",
+      "caption": "Me at Hilton Head Beach, August 2025"
+    }
+  },
+  {
+    "prefix": "btiseo",
+    "name": {
+      "first": "Brandon",
+      "middleInitial": "D",
+      "last": "Tiseo",
+      "preferred": ""
+    },
+    "acknowledgement": "I understand that what I put here is publicly available and I will not write anything that I do not wish for the public to see.",
+    "acknowledgementDate": "2025-11-26",
+    "mascot": "Bold Turtle",
+    "divider": "||",
+    "platform": {
+      "device": "Desktop",
+      "os": "Windows 11"
+    },
+    "backgrounds": {
+      "personal": "My hobbies include cooking/baking, video games, reading, drawing, and playing an instrument.",
+      "professional": "I began my career in computer science three years ago in high school where I was first exposed to Python. Since then, I’ve participated in several hackathons focused in various areas of computing and have completed an internship at INSP, LLC as an IT intern.",
+      "academic": "I am currently a Junior majoring in computer science with a concentration in software development and a minor in computer engineering. I plan to graduate in Spring, 2027.",
+      "subject": "I had no experience in web development prior to this semester!"
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "4166",
+        "name": "Backend App Development",
+        "reason": "Wanted to take backend and frontend web development in the same semester and I am very interested in web development.",
+        "code": "ITIS-4166"
+      },
+      {
+        "dept": "ITIS",
+        "num": "3688",
+        "name": "Computers & Their Impact on Society",
+        "reason": "Required Course",
+        "code": "ITIS-3688"
+      },
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Frontend Web Development",
+        "reason": "I Wanted to take backend and frontend web development in the same semester and I am very interested in web development.",
+        "code": "ITIS-3135"
+      },
+      {
+        "dept": "ECGR",
+        "num": "2181",
+        "name": "Logic System Design",
+        "reason": "Part of my computer engineering minor.",
+        "code": "ECGR-2181"
+      },
+      {
+        "dept": "MUPF",
+        "num": "1113",
+        "name": "Symphonic Band",
+        "reason": "I am very passionate about playing an instrument and wanted to take up playing in a band again.",
+        "code": "MUPF-1113"
+      }
+    ],
+    "personalStatement": "Hello! My name is Brandon Tiseo and I am a Junior computer science major, concentrating in software development, and minoring in computer engineering. I am 20 years old and was born in Long Island, New York but I have lived in the Charlotte area for most of my life. After graduating I plan to work either as a software developer or in IT.",
+    "quote": {
+      "text": "But in the end it’s only a passing thing, this shadow; even darkness must pass.",
+      "author": "J.R.R Tolkein"
+    },
+    "funFact": "I have a pet pig named Arnold.",
+    "additional": "I love to bake!",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/btiseo/",
+      "github": "https://github.com/BrandonTiseo/",
+      "githubio": "https://brandontiseo.github.io/",
+      "itis3135": "https://brandontiseo.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/brandontiseo",
+      "codecademy": "https://www.codecademy.com/profiles/BrandonTiseo",
+      "linkedin": "https://www.linkedin.com/in/brandon-tiseo/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/btiseo-1764133668980.jpg",
+      "caption": "At my internship, July 2025"
+    }
+  },
+  {
     "prefix": "btramue1",
     "name": {
       "first": "Brian",
@@ -582,6 +885,80 @@
       "hasImage": true,
       "src": "/media/2025-fall/itis-3135/claguerr-1764018657031.jpg",
       "caption": "Carls Laguerre"
+    }
+  },
+  {
+    "prefix": "clewis94",
+    "name": {
+      "first": "Connor",
+      "middleInitial": "L",
+      "last": "Lewis",
+      "preferred": ""
+    },
+    "acknowledgement": "“I acknowledge that the information posted below is public.” - C.L, 8/24/25",
+    "acknowledgementDate": "2025-11-28",
+    "mascot": "Crafty Llama",
+    "divider": "|",
+    "platform": {
+      "device": "Dell",
+      "os": "Windows"
+    },
+    "backgrounds": {
+      "personal": "Born and raised in Thomasville, NC I moved to Asheboro after graduating high school and focused on getting my degree in computer science. Some of my hobbies include gaming, watching horror movies, and playing basketball.",
+      "professional": "I have no experience in the technology field yet, but I have worked in traffic control, at Domino’s, and at a movie theater.",
+      "academic": "I graduated from Thomasville High School as valedictorian, and I am concentrating on AI, Robotics, and Gaming.",
+      "subject": "n/a"
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Web Development",
+        "reason": "I am taking this so I can better understand frontend coding.",
+        "code": "ITIS-3135"
+      },
+      {
+        "dept": "ITCS",
+        "num": "4123",
+        "name": "Visualization and Visual Communication",
+        "reason": "I chose this course because I thought the concept of visualization in Unity3D seemed very interesting.",
+        "code": "ITCS-4123"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3146",
+        "name": "Oper Syst & Networking",
+        "reason": "I am taking this class because I felt as if knowing more about operating systems could be useful in my pursuit of a career path.",
+        "code": "ITSC-3146"
+      },
+      {
+        "dept": "STAT",
+        "num": "2122",
+        "name": "Intro to Prob & Stat",
+        "reason": "This was the last class I needed to take in order to finish the math portion of my degree.",
+        "code": "STAT-2122"
+      }
+    ],
+    "personalStatement": "Hello, my name is Connor Lewis, I am a current senior who is studying computer science and I am concentrating in AI, Robotics, and Gaming. I am a huge horror movie fan and my favorite basketball   team is the Cleveland Cavaliers. ",
+    "quote": {
+      "text": "“Why are you wearing that stupid man suit?”",
+      "author": "Frank"
+    },
+    "funFact": "n/a",
+    "additional": "n/a",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/clewis94/",
+      "github": "https://github.com/clewis94",
+      "githubio": "https://clewis94.github.io/",
+      "itis3135": "https://clewis94.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/conlew49",
+      "codecademy": "https://www.codecademy.com/profiles/ConLew49",
+      "linkedin": "https://www.linkedin.com/in/connor-lewis-240070346/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/clewis94-1764358054327.jpg",
+      "caption": "A photo of me before attending a career fair in 2023"
     }
   },
   {
@@ -811,6 +1188,140 @@
       "hasImage": true,
       "src": "/media/2025-fall/itis-3135/cpenteco-1762888356181.png",
       "caption": "My logo"
+    }
+  },
+  {
+    "prefix": "csande53",
+    "name": {
+      "first": "Colby",
+      "middleInitial": "A",
+      "last": "Sanders",
+      "preferred": ""
+    },
+    "acknowledgement": "I understand that what I post here is publicly available and I will not write anything that I do not wish for the public to see - C.S. 8/19/2025",
+    "acknowledgementDate": "2025-11-26",
+    "mascot": "Clever Salmon",
+    "divider": "|",
+    "platform": {
+      "device": "Desktop",
+      "os": "Windows"
+    },
+    "backgrounds": {
+      "personal": "Hobbies I enjoy in my free time include going to the gym, walking my dog, playing video games, hanging out with friends, watching sports, watching moves/tv, and more!",
+      "professional": "I began my career in 2021 by working at Charlotte Beer Garden and have had various different serving jobs since then. This past summer, I was fortunate enough to have the opportunity to do an Externship with Snapchat that consisted of us creating different AR lenses.",
+      "academic": "I am currently a junior and I transferred here from Wake Tech. I am pursuing a major in computer science with a concentration in cybersecurity. ",
+      "subject": ""
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front-End Web App Development",
+        "reason": "I am interested in this because I am interested in making web applications.",
+        "code": "ITIS-3135"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3146",
+        "name": "Intro Oper Syst & Networking",
+        "reason": "I am taking this course because I am interested in networking and how everything is interconnected.",
+        "code": "ITSC-3146"
+      },
+      {
+        "dept": "ITSC",
+        "num": "2175",
+        "name": "Logic and Algorithms",
+        "reason": "I am taking this course because I am curious how algorithms work as they can be extremely useful in real world applications.",
+        "code": "ITSC-2175"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3160",
+        "name": "Database Design & Implementation",
+        "reason": "I am taking this course because databases are another extremely useful tool in the real world and it is important to make sure that they are implemented properly.",
+        "code": "ITSC-3160"
+      },
+      {
+        "dept": "MATH",
+        "num": "2164",
+        "name": "Matrices & Linear Algebra",
+        "reason": "I am taking this course because it is a part of the curriculum. I am not a big math fan, unfortunately.",
+        "code": "MATH-2164"
+      }
+    ],
+    "personalStatement": "Hello! My name is Colby Sanders and I am a Junior majoring in Computer Science with a concentration in cybersecurity. I am 23 years old and originally from Raleigh, North Carolina. I lived in Charlotte for a year in 2020, then moved back a year ago. After graduating I plan to pursue a Masters Degree in cybersecurity as well.",
+    "quote": {
+      "text": "The only way to do great work is to love what you do",
+      "author": "Steve Jobs"
+    },
+    "funFact": "N/A",
+    "additional": "",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/csande53/",
+      "github": "https://github.com/ColbyASanders22",
+      "githubio": "https://colbyasanders22.github.io/",
+      "itis3135": "https://colbyasanders22.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/csande53",
+      "codecademy": "https://www.codecademy.com/profiles/csande53",
+      "linkedin": "http://www.linkedin.com/in/colby-sanders"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/csande53-1764174024767.jpg",
+      "caption": "Skiing in Jackson Hole, WY"
+    }
+  },
+  {
+    "prefix": "dcuriel",
+    "name": {
+      "first": "Grimble",
+      "middleInitial": "B",
+      "last": "Curiel",
+      "preferred": "Grimble"
+    },
+    "acknowledgement": "I acknowledge that the information in this form is publicly available",
+    "acknowledgementDate": "2025-11-26",
+    "mascot": "Gluttonous Chupacabra",
+    "divider": "|",
+    "platform": {
+      "device": "laptop",
+      "os": "Windows"
+    },
+    "backgrounds": {
+      "personal": "Born in Charlotte but been around.",
+      "professional": "Regularly perform technological and software repair. I’ve done an Internship with NC Tech Partners. Nearly done with college.",
+      "academic": " Information Technology senior",
+      "subject": "Alienware, Windows, Desktop, Home"
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front-end web development",
+        "reason": "required",
+        "code": "ITIS-3135"
+      }
+    ],
+    "personalStatement": "Howdy my name’s Grimble, my major is Information Technology. I switched to this major cause UNCC wants calculus 1 and 2 to make games for some reason. I like cooking, games both physical and digital, adrenaline chasing and hikes (contrary to my appearance).",
+    "quote": {
+      "text": "Time is a waste of life, life is a waste of time, if you’re wasted all the time you’ll have the time of your life!",
+      "author": "Billy Connolly"
+    },
+    "funFact": "Rotund",
+    "additional": "no",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/dcuriel/",
+      "github": "https://github.com/gbcuriel",
+      "githubio": "https://gbcuriel.github.io",
+      "itis3135": "https://gbcuriel.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/grimble_c",
+      "codecademy": "https://www.codecademy.com/profiles/GrimbleC",
+      "linkedin": "https://www.linkedin.com/in/diego-curiel-a16088223/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/dcuriel-1764170927470.jpg",
+      "caption": "In mexico"
     }
   },
   {
@@ -1086,6 +1597,161 @@
       "hasImage": true,
       "src": "/media/2025-fall/itis-3135/earguell-1764018589033.jpeg",
       "caption": "Me working at the Santa Clara hotel for Stanford Corporations"
+    }
+  },
+  {
+    "prefix": "gleventh",
+    "name": {
+      "first": "Griffin",
+      "middleInitial": "J",
+      "last": "Leventhal",
+      "preferred": ""
+    },
+    "acknowledgement": "I acknowledge that the information provided is publically available.",
+    "acknowledgementDate": "2025-11-29",
+    "mascot": "Grateful Lizard",
+    "divider": "♦",
+    "platform": {
+      "device": "Laptop",
+      "os": "Linux (Arch)"
+    },
+    "backgrounds": {
+      "personal": "I’m from Raleigh, but moved here for college and am enjoying it so far! My hobbies include playing fighting games, reading, and skateboarding as of recently. ",
+      "professional": "I have no industry experience, but have worked on quite a few personal projects available on my Github, as well as some time at McDonalds and Food Lion! ",
+      "academic": "I’m currently a senior majoring in Computer Science with a concentration in software engineering. I started my degree at Wake Technical Community College, and transferred for my junior year. ",
+      "subject": "I especially love working in web development, and am already familiar to some degree with vanilla HTML/CSS/JS and React. "
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front End Web App Development",
+        "reason": "I’ve worked with web development a bit already and wanted to refine my weak spots.",
+        "code": "ITIS-3135"
+      },
+      {
+        "dept": "ITCS",
+        "num": "3166",
+        "name": "Intro to Computer Networks",
+        "reason": "I’ve worked a bit with networking, but it’s difficult and I wanted to explore it further with guidance.",
+        "code": "ITCS-3166"
+      },
+      {
+        "dept": "ITIS",
+        "num": "3310",
+        "name": "Software Architecture and Design",
+        "reason": "This class seemed like it’d help me improve significantly.",
+        "code": "ITIS-3310"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3146",
+        "name": "Intro to Operating Systems and Networking",
+        "reason": "I’ve been wanting to explore lower-level programming, and this class seemed like a great way to do so.",
+        "code": "ITSC-3146"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3155",
+        "name": "Software Engineering",
+        "reason": "My future career path is (hopefully) software engineering, so this class seemed necessary.",
+        "code": "ITSC-3155"
+      }
+    ],
+    "personalStatement": " Hey, my name is Griffin Leventhal and I am a senior studying computer science with a concentration in software engineering! ",
+    "quote": {
+      "text": "You can fail at doing something you don't want, so you might as well take a chance at what you love.",
+      "author": "Jim Carrey"
+    },
+    "funFact": "I have red hair!",
+    "additional": "My favorite programming language is Rust!",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/gleventh",
+      "github": "https://github.com/griffinluncc",
+      "githubio": "https://griffinluncc.github.io/",
+      "itis3135": "https://griffinluncc.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/gleventhal",
+      "codecademy": "https://www.codecademy.com/profiles/gleventhalUNCC",
+      "linkedin": "https://www.linkedin.com/in/griffinlevdev"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/gleventh-1764404780527.jpg",
+      "caption": "Me sitting on the ramp at a skatepark!"
+    }
+  },
+  {
+    "prefix": "gpagunu1",
+    "name": {
+      "first": "Gabe",
+      "middleInitial": "",
+      "last": "Pagunuran",
+      "preferred": ""
+    },
+    "acknowledgement": "I acknowledge that the information provided in this form is publicly available",
+    "acknowledgementDate": "2025-11-26",
+    "mascot": "Generic Parakeet",
+    "divider": "♦",
+    "platform": {
+      "device": "Laptop",
+      "os": "Windows 11"
+    },
+    "backgrounds": {
+      "personal": "I was born in New Brunswick, NJ, but I spent most of my life in Concord, NC. I still live in Concord with my parents. ",
+      "professional": "",
+      "academic": "I went to Cox Mill Elementary, Harris Road Middle, and Cox Mill High school. I started my college career in Appalachian State University studying music production, moved to CPCC for financial reasons, then changed my major to Computer Science and eventually ended up pursuing a degree closer to home in UNCC.",
+      "subject": ""
+    },
+    "courses": [
+      {
+        "dept": "MATH",
+        "num": "1242",
+        "name": "Calculus 2",
+        "reason": "This is required for my major, but I am interested in continuing my math studies to work towards a math minor.",
+        "code": "MATH-1242"
+      },
+      {
+        "dept": "ITSC",
+        "num": "3146",
+        "name": "Intro to Operating Systems and Networking",
+        "reason": "I am very interested in operating systems. I would like what I learn in this class to create some personal projects.",
+        "code": "ITSC-3146"
+      },
+      {
+        "dept": "ITIS",
+        "num": "3200",
+        "name": "Intro to Info Security and Privacy",
+        "reason": "This class very closely relates to one of my dream occupations: creating and maintaining cybersecurity measures for a public database, like online libraries.",
+        "code": "ITIS-3200"
+      },
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front-End Web App Development",
+        "reason": "I figure that concepts in this course are essential to know for anyone that wants to create a nice portfolio for computer science.",
+        "code": "ITIS-3135"
+      }
+    ],
+    "personalStatement": "I am not a bird",
+    "quote": {
+      "text": "I am NOT a bird.",
+      "author": "-bird"
+    },
+    "funFact": "Met stevie wonder as a kid",
+    "additional": "I work at the CLT Esports Arena!",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/gpagunu1/",
+      "github": "https://github.com/gpagunuran",
+      "githubio": "https://github.com/gpagunuran/gpagunuran.github.io",
+      "itis3135": "https://github.com/gpagunuran/gpagunuran.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/gpagunuran7419",
+      "codecademy": "https://www.codecademy.com/profiles/gpagunuran7419",
+      "linkedin": "https://www.linkedin.com/in/gabriel-pagunuran"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/gpagunu1-1764179754143.jpg",
+      "caption": "picture of me that's small enough to submit"
     }
   },
   {
@@ -1505,6 +2171,59 @@
     }
   },
   {
+    "prefix": "jwatki49",
+    "name": {
+      "first": "josh",
+      "middleInitial": "",
+      "last": "watkins",
+      "preferred": ""
+    },
+    "acknowledgement": "I acknowledge that the information on this form is publicly available ",
+    "acknowledgementDate": "2025-11-27",
+    "mascot": "jolly  wolf",
+    "divider": "|",
+    "platform": {
+      "device": "Lenovo Windows 11 laptop",
+      "os": "windows 11"
+    },
+    "backgrounds": {
+      "personal": "I am a returning adult student from the coast moved here 2013",
+      "professional": "I work full-time in the tech industry",
+      "academic": "I am enrolled in ITIS3135 and only have 5 classes left till I finish",
+      "subject": "no background in web development"
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front-End Web App Development",
+        "reason": "It is required to finish my degree",
+        "code": "ITIS-3135"
+      }
+    ],
+    "personalStatement": "Hoping to pass",
+    "quote": {
+      "text": "never gonna give you up",
+      "author": "rick astley"
+    },
+    "funFact": "funny fact i am sleepy",
+    "additional": "nothing else",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/jwatki49/",
+      "github": "https://github.com/darkwolf86",
+      "githubio": "https://darkwolf86.github.io/",
+      "itis3135": "https://darkwolf86.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/watkinsj86",
+      "codecademy": "https://www.codecademy.com/profiles/jwatki49uncc.edu",
+      "linkedin": "https://www.linkedin.com/in/josh-watkins-99658065/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/jwatki49-1764214276642.png",
+      "caption": "Helldivers 2 Logo"
+    }
+  },
+  {
     "prefix": "kstocks3",
     "name": {
       "first": "Kacey",
@@ -1819,6 +2538,66 @@
       "hasImage": true,
       "src": "/media/2025-fall/itis-3135/mmuruga2-1764035045841.jpeg",
       "caption": "My birthday, 2024"
+    }
+  },
+  {
+    "prefix": "mnasir2",
+    "name": {
+      "first": "Muhammad",
+      "middleInitial": "S",
+      "last": "Nasir",
+      "preferred": "Narwhal"
+    },
+    "acknowledgement": "I acknowledge that the information provided in this form is publicaly available. ",
+    "acknowledgementDate": "2025-11-26",
+    "mascot": "Sleepy Gear",
+    "divider": "||",
+    "platform": {
+      "device": "MACBOOK AIR M2 ",
+      "os": "MAC OS "
+    },
+    "backgrounds": {
+      "personal": "Currently a senior at UNC Charlotte pursuing a computer science degree. I enjoy playing basketball and spending time with family and friends",
+      "professional": "I help operate a few businesses that my family owns.",
+      "academic": "High school diploma - East Davidson High School\r\nAssociates in science - DDCC\r\nBA Computer Science - UNC Charlotte 2025",
+      "subject": "ITIS 3135"
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front end app dev",
+        "reason": "Required",
+        "code": "ITIS-3135"
+      },
+      {
+        "dept": "STAT",
+        "num": "2223",
+        "name": "Elements of stats",
+        "reason": "Required to graduate",
+        "code": "STAT-2223"
+      }
+    ],
+    "personalStatement": "Work hard to get what you want.",
+    "quote": {
+      "text": "\"Treat others the way you want to be treated\"",
+      "author": "\"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment\" by Ralph Waldo Emerson"
+    },
+    "funFact": "When i was younger i climbed into a oil drum",
+    "additional": "My family owns a business. ",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/mnasir2/",
+      "github": "https://github.com/vuxvo64bit",
+      "githubio": "https://vuxvo64bit.github.io/",
+      "itis3135": "https://vuxvo64bit.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/sumrannasir",
+      "codecademy": "https://www.codecademy.com/profiles/SumranNasir",
+      "linkedin": "https://www.linkedin.com/in/sumran-nasir-842680309/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/mnasir2-1764127841006.png",
+      "caption": "Picture of me with my friends"
     }
   },
   {
@@ -2534,6 +3313,59 @@
       "hasImage": true,
       "src": "/media/2025-fall/itis-3135/wpackham-1764019740626.png",
       "caption": "With my brother Owen in Alaska. (2025)"
+    }
+  },
+  {
+    "prefix": "ykim87",
+    "name": {
+      "first": "John",
+      "middleInitial": "",
+      "last": "Kim",
+      "preferred": ""
+    },
+    "acknowledgement": "I acknowledge that the information I post here is visible to the public. - JK 8/21/2025",
+    "acknowledgementDate": "2025-11-26",
+    "mascot": "Joint Komodo",
+    "divider": "||",
+    "platform": {
+      "device": "Microsoft",
+      "os": "Windows 11 PC"
+    },
+    "backgrounds": {
+      "personal": "When I was somewhere between 1-5 years old, I moved to the United States and grew up there. The reason why I decided to major in computer science is because I’ve always been interested in things surrounding how computers work. ",
+      "professional": "I am currently a freelance artist, taking commissions.",
+      "academic": "My major is computer science, going in the direction of a bachelor of science.",
+      "subject": "ITSC2181 - Introduction to Computer Systems: Required, but also chances are learning the material this course will probably be useful. The knowledge gained from it will most likely be quite relevant.\r\nCTCM2530 - Interdisciplinary Critical Thinking and Communication: This was recommended by my advisor to take, and has good credit hours.\r\nJAPN1202 - Elementary Japanese II: Originally I wanted to take a math course, but all of the slots were filled. So, I looked for courses and saw that this one was open, and remembered that I bought a textbook from the Japanese I class I took in the past which the teacher said it can be used in this one also. I decided to take advantage of this."
+    },
+    "courses": [
+      {
+        "dept": "ITIS",
+        "num": "3135",
+        "name": "Front-End Web Development",
+        "reason": "Required",
+        "code": "ITIS-3135"
+      }
+    ],
+    "personalStatement": "I am a South Korean who moved to America at a young age, and is majoring in computer science. I like to run outside in nice weather, draw pictures, and watch movies with my friends, even if said movies aren’t very good. During my free time, it is often spent doing those things in particular.",
+    "quote": {
+      "text": "Never gonna give you up.",
+      "author": "Rick Astley"
+    },
+    "funFact": "One time when I was little I asked for a pair of Jordans and then I got a T-shirt with the Jordans logo on it.",
+    "additional": "I’m always bringing these headphones every time I go somewhere.",
+    "links": {
+      "charlotte": "https://webpages.charlotte.edu/ykim87/ITIS3135/index.html",
+      "github": "https://github.com/JK-0096/",
+      "githubio": "https://jk-0096.github.io/",
+      "itis3135": "https://jk-0096.github.io/itis3135/",
+      "freecodecamp": "https://www.freecodecamp.org/jk-0096",
+      "codecademy": "https://www.codecademy.com/profiles/JK-0096",
+      "linkedin": "https://www.linkedin.com/in/john-kim-05a4b2329/"
+    },
+    "media": {
+      "hasImage": true,
+      "src": "/media/2025-fall/itis-3135/ykim87-1764192281297.jpg",
+      "caption": "In a white room"
     }
   },
   {
